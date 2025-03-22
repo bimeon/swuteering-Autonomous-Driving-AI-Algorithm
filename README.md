@@ -1,1 +1,1 @@
-# autonomous-driving-AIalgorithms
+# 2024년 자율주행 인공지능 알고리즘 개발 챌린지 (공모전)
